@@ -1,2 +1,1 @@
-# Resources
-wallpaper、document、installer...
+#My Resources
